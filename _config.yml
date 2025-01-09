@@ -1,11 +1,10 @@
-remote_theme: mmistakes/minimal-mistakes@4.24.0
+remote_theme: mmistakes/minimal-mistakes
 plugins:
   - jekyll-remote-theme
+  - jekyll-include-cache
 
 title: Nevvo Blog
-description: >-
-  Think Tank 4.0 da Nevvo: Blog sobre Inteligência Artificial Aplicada, 
-  Tecnologia, Business Intelligence e Marketing Digital 4.0
+description: Think Tank 4.0 da Nevvo: Blog sobre Inteligência Artificial Aplicada, Tecnologia, Business Intelligence e Marketing Digital 4.0
 author:
   name: Nevvo Labs
   email: contato@nevvo.com.br
