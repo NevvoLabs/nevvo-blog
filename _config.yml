@@ -4,7 +4,9 @@ plugins:
   - jekyll-include-cache
 
 title: Nevvo Blog
-description: Think Tank 4.0 da Nevvo: Blog sobre Inteligência Artificial Aplicada, Tecnologia, Business Intelligence e Marketing Digital 4.0
+description: >-
+  Think Tank 4.0 da Nevvo: Blog sobre Inteligência Artificial Aplicada, 
+  Tecnologia, Business Intelligence e Marketing Digital 4.0
 author:
   name: Nevvo Labs
   email: contato@nevvo.com.br
