@@ -3,7 +3,9 @@ plugins:
   - jekyll-remote-theme
 
 title: Nevvo Blog
-description: Think Tank 4.0 da Nevvo: Blog sobre Inteligência Artificial Aplicada, Tecnologia, Business Intelligence e Marketing Digital 4.0
+description: >-
+  Think Tank 4.0 da Nevvo: Blog sobre Inteligência Artificial Aplicada, 
+  Tecnologia, Business Intelligence e Marketing Digital 4.0
 author:
   name: Nevvo Labs
   email: contato@nevvo.com.br
@@ -15,13 +17,11 @@ author:
     facebook: https://www.facebook.com/profile.php?id=61568548946429
     github: nevvolabs
 
-# Configurações de aparência
 theme_settings:
   show_author_profile: true
   show_excerpt: true
   show_read_time: true
 
-# Configurações avançadas (opcional)
 defaults:
   - scope:
       path: ""
